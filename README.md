@@ -22,7 +22,6 @@
 ### About me
 # 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.println("Hello,+World!");|Hello+there+im+VoidWalker+:3&separator=|&pause=3000&color=8D021F&repeat=false)](https://git.io/typing-svg)
 
-
 ```javascript
 const me = {
   pronouns: "He" | "Him",
@@ -33,6 +32,10 @@ const me = {
   funFact: "I have a 100% success rate in turning pizza into software."
 };
 ```
+
+[![My Skills](https://skillicons.dev/icons?i=devto,windows,,c,cpp,java,arduino,godot,mysql,html,css,js,php&theme=dark)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=apple,kali,,raspberrypi,ubuntu,bash,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 *   🔭 **Current Project:** Building a time machine (currently stuck in a `while(true)` loop).
 *   🌱 **Learning:** How to exit Vim without turning off my computer.
