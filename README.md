@@ -35,7 +35,7 @@
 
 ```javascript
 const me = {
-  pronouns: "He" | "Him",
+  pronouns: ["this", "self"],
   code: ["C/C++", "Java", "JavaScript"],
   tools: ["Docker", "Kubernetes", "Coffee"],
   architecture: "Microservices & Overthinking",
