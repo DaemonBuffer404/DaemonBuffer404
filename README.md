@@ -1,4 +1,14 @@
-<!-- **DaemonBuffer404/DaemonBuffer404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- Status ideas:
+🕳️ Staring into the void... and the void is debugging back.
+🛰️ Lost in the buffer. Do not flush.
+🌑 Buffering reality at dark-void.net...
+🌌 Watching the buffer flow into the void...
+☁️ System.out.println("Living the dream");
+➿ while(alive) { code(); coffee++; }
+💻 [object Object] - and proud of it.
+🛠️ Building things. Mostly breaking things.
+-->
+
 <!-- Banner -->
 <p align="center">
   <img src="https://dark-void.net/src/header.png" alt="Banner" width="100%"/>
