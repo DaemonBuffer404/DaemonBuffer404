@@ -20,7 +20,8 @@
 ---
 
 ### About me
-# 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.println("Hello,+World!");|Hello+there+im+VoidWalker+:3&separator=|&pause=3000&color=8D021F&repeat=false)](https://git.io/typing-svg)
+# 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.println("Hello,+World!");|Hello+there,+im+the+VoidWalker+:3&separator=|&pause=3000&color=8D021F&repeat=false)](https://git.io/typing-svg)
+
 
 ```javascript
 const me = {
