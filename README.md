@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://dark-void.net/src/header.png" alt="Banner" width="100%"/>
+  <img src="https://dark-void.net/src/GitHub-Header.png" alt="Banner" width="100%"/>
 </p>
 <!--
 <h1 align="center">
