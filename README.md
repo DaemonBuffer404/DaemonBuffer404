@@ -60,7 +60,9 @@ const me = {
 ---
 
 ### Github Analytics
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaemonBuffer404&theme=tokyo-night)
 <p align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=DaemonBuffer404&theme=radical&no-frame=false&column=9" width="90%"/>
   <!--
   <img src="https://github-profile-trophy.vercel.app/?username=DaemonBuffer404&theme=kimbie_dark&no-frame=false&column=9" width="85%"/>
