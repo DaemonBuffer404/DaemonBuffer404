@@ -22,7 +22,7 @@
 </h1>
 -->
 <p align="center">
-  <a href="https://cytech.run"><img src="https://img.shields.io/badge/Website-dark--void.net-blue?style=for-the-badge&logo=firefox-browser" alt="Website"></a>
+  <a href="https://cytech.run"><img src="https://img.shields.io/badge/Website-cytech.run-blue?style=for-the-badge&logo=firefox-browser" alt="Website"></a>
   <a href="https://github.com/Daemonbuffer404?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20on%20GitHub-red?style=for-the-badge&logo=github"></a>
   <a href="https://links.cytech.run"><img src="https://img.shields.io/badge/Contact-Linktree-purple?style=for-the-badge&logo=linktree"></a>
 </p>
@@ -83,5 +83,5 @@ const me = {
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Loading+more+bugs+into+production...|Exit+code+0:+Succesfully+distracted+by+side+projects|Error:+404+Sleep+not+found&separator=|&pause=15000&repeat=true&width=700&font=Fira+Code&size=17&color=ABB2BF&vCenter=true)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://cytech.run"><b>🌐 Visilt my Website dark.void-net 😋</b></a>
+  <a href="https://cytech.run"><b>🌐 Visilt my Website cytech.run 😋</b></a>
 </p>
