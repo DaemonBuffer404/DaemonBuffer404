@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://specs.dark-void.net/src/GH-Banner.png" alt="Banner" width="100%"/>
+  <img src="https://spec.cytech.run/src/GH-Banner.png" alt="Banner" width="100%"/>
 </p>
 <!--
 <h1 align="center">
